@@ -1,4 +1,4 @@
 language: objective-c
 osx_image: xcode8.3
 xcode_project: TestUITest.xcodeproj # path to your xcodeproj folder
-xcode_scheme: TestUITestUITests #bump5
+xcode_scheme: TestUITest #bump5
