@@ -158,7 +158,7 @@
 				TargetAttributes = {
 					50E828501EEEF76800FE2F43 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 2338K87G7Y;
+						DevelopmentTeam = L5262XM8UA;
 						ProvisioningStyle = Automatic;
 					};
 					50E828681EEEF76800FE2F43 = {
@@ -360,7 +360,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 2338K87G7Y;
+				DEVELOPMENT_TEAM = L5262XM8UA;
 				INFOPLIST_FILE = TestUITest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.maxainatchi.TestUITest;
@@ -375,7 +375,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 2338K87G7Y;
+				DEVELOPMENT_TEAM = L5262XM8UA;
 				INFOPLIST_FILE = TestUITest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.maxainatchi.TestUITest;
