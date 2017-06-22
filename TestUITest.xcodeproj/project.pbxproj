@@ -30,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5009770D1EFC35000089822E /* circle.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = circle.yml; sourceTree = "<group>"; };
 		505AB7141EEF19CB00E62C68 /* Accessible.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Accessible.swift; sourceTree = "<group>"; };
 		505AB7161EF0280A00E62C68 /* UITest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITest.swift; sourceTree = "<group>"; };
 		50E828511EEEF76800FE2F43 /* TestUITest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestUITest.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -67,6 +68,7 @@
 		50E828481EEEF76800FE2F43 = {
 			isa = PBXGroup;
 			children = (
+				5009770D1EFC35000089822E /* circle.yml */,
 				50E828531EEEF76800FE2F43 /* TestUITest */,
 				50E8286C1EEEF76800FE2F43 /* TestUITestUITests */,
 				50E828521EEEF76800FE2F43 /* Products */,
