@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5009770F1EFC52CD0089822E /* bumpfile.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5009770E1EFC52CD0089822E /* bumpfile.txt */; };
 		505AB7151EEF19CB00E62C68 /* Accessible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 505AB7141EEF19CB00E62C68 /* Accessible.swift */; };
 		505AB7171EF0280A00E62C68 /* UITest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 505AB7161EF0280A00E62C68 /* UITest.swift */; };
 		50E828551EEEF76800FE2F43 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E828541EEEF76800FE2F43 /* AppDelegate.swift */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		5009770D1EFC35000089822E /* circle.yml */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = text; path = circle.yml; sourceTree = "<group>"; tabWidth = 2; usesTabs = 0; };
+		5009770E1EFC52CD0089822E /* bumpfile.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bumpfile.txt; sourceTree = "<group>"; };
 		505AB7141EEF19CB00E62C68 /* Accessible.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Accessible.swift; sourceTree = "<group>"; };
 		505AB7161EF0280A00E62C68 /* UITest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITest.swift; sourceTree = "<group>"; };
 		50E828511EEEF76800FE2F43 /* TestUITest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestUITest.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -68,6 +70,7 @@
 		50E828481EEEF76800FE2F43 = {
 			isa = PBXGroup;
 			children = (
+				5009770E1EFC52CD0089822E /* bumpfile.txt */,
 				5009770D1EFC35000089822E /* circle.yml */,
 				50E828531EEEF76800FE2F43 /* TestUITest */,
 				50E8286C1EEEF76800FE2F43 /* TestUITestUITests */,
@@ -197,6 +200,7 @@
 			files = (
 				50E828631EEEF76800FE2F43 /* LaunchScreen.storyboard in Resources */,
 				50E828601EEEF76800FE2F43 /* Assets.xcassets in Resources */,
+				5009770F1EFC52CD0089822E /* bumpfile.txt in Resources */,
 				50E8285E1EEEF76800FE2F43 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
